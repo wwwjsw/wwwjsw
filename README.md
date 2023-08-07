@@ -6,7 +6,6 @@
 -  **Learning :** Unity | Docker | next.js | nest.js
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-![github stats](https://github-readme-stats.vercel.app/api?username=wwwjsw&show_icons=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wwwjsw&hide_progress=false&hide=html,css)
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
