@@ -3,9 +3,9 @@
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 ### About
 -  **Working :** Frontend | Mobile | React Native | React.js
--  **Learning :** Unity | Docker | next.js | nest.js
+-  **Learning :** Rust
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wwwjsw&hide_progress=false&hide=html,css)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wwwjsw&hide_progress=false&hide=html,css,php)
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
