@@ -6,6 +6,6 @@
 -  **Learning :** Rust
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wwwjsw&hide_progress=false&hide=html,css,php,java,swift,ruby)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wwwjsw)
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
